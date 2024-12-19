@@ -1,0 +1,19 @@
+{
+  "name": "asincronismo-en-java",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "jefershon huamani choque",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
+}
